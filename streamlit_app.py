@@ -1,4 +1,4 @@
-import streamlit_app as st
+import streamlit as st
 import pandas as pd
 from datetime import datetime, timedelta
 from matplotlib import pyplot as plt
