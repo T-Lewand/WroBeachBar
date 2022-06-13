@@ -4,9 +4,7 @@ from datetime import datetime, timedelta
 from matplotlib import pyplot as plt
 import seaborn as sns
 sns.set_style(style='whitegrid')
-import streamlit_folium
-import folium
-import folium.plugins
+
 from objecthandler import BeachBar
 import utilities as util
 import streamlit_utilities as st_util
